@@ -18,5 +18,6 @@
 <p> 
  <ul>
 <li> <a href="https://github.com/Daryafrs/SQL">MySQL</a>   </li>
+<li>  <a href="https://github.com/Daryafrs/api-testing/tree/main"> REST and SOAP API testing via Postman </a>   </li>
 </ul>
 </p>
