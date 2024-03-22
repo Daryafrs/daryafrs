@@ -5,9 +5,9 @@ I'd like to showcase some examples from my collection of web and mobile testing 
 </p> 
 
 <h2> My certificates </h2>
- <a href="https://drive.google.com/file/d/13auzOV5ZZy_FHuRE25XYBhoivRtZGVuH/view?usp=drive_link"> IT Switcher Certificate</a>
+<li> <a href="https://drive.google.com/file/d/13auzOV5ZZy_FHuRE25XYBhoivRtZGVuH/view?usp=drive_link"> IT Switcher Certificate</a> </li>
 <p> 
- <a href="https://drive.google.com/file/d/1O9lS_lfK8B8zSmhmWw-MbI_k85O7H_EQ/view?usp=drive_link"> Intership Certificate</a>
+<li> <a href="https://drive.google.com/file/d/1O9lS_lfK8B8zSmhmWw-MbI_k85O7H_EQ/view?usp=drive_link"> Intership Certificate</a> </li>
 <p> 
 
 <h2>Some Tools I Use</h2>
